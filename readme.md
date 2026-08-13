@@ -1,4 +1,4 @@
-# 💬 Multi-Client Chat Server
+# Multi-Client Chat Server
 
 > **A chat server written in C because apparently suffering is part of learning networking.**
 
@@ -10,18 +10,18 @@ From scratch.
 
 In C.
 
-Yeah... I know. 💀
+Yeah... I know. 
 
-## 🚀 What is this?
+## 
 
 A **multi-client TCP chat server** that allows multiple clients to connect to the same server and send messages to each other.
 
 Each client gets a name, and messages are broadcast like:
 
 ```text
-[Swapnil] yo what are you doing
-[Yadav] absolutely nothing important
-[Swapnil] real
+[Client 1] yo what are you doing
+[Client 2] building a chat server without libraries
+[Client 3] GOAT is here
 ```
 
 Meanwhile the server is sitting there like:
@@ -32,7 +32,7 @@ Client Connected
 Client Connected
 ```
 
-## 🧠 What I learned
+## Learned a lot about sockets
 
 This project was basically my networking boss fight.
 
@@ -63,7 +63,7 @@ And most importantly:
 
 That one sentence caused approximately 47% of my suffering.
 
-## ⚙️ How it works
+## Sockets and their loved file descriptors
 
 The server keeps track of all connected clients using file descriptors.
 
