@@ -120,7 +120,10 @@ Open multiple terminals and run the clients:
 
 Connect them to the server and start talking absolute nonsense.
 
-##  It actually works
+#Screenshot
+<img width="1920" height="977" alt="Screenshot From 2026-08-13 11-09-25" src="https://github.com/user-attachments/assets/25e2ac7d-3078-4b2f-a623-25530532eeda" />
+
+Funny hahaha...
 
 ## Current state
 
